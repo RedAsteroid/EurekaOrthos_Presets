@@ -62,6 +62,10 @@ https://kgithub.com/RedAsteroid/EurekaOrthos_Presets/releases/download/Main/Eure
 
 Step.1 请在浏览器中打开仓库中的 Lv2_Presets.md 文件。
 
+```
+https://github.com/RedAsteroid/EurekaOrthos_Presets/blob/main/Lv2_Presets.md
+```
+
 Step.2 请打开 `Splatoon` 插件窗口，点击 `批量导入` 选项卡后，勾选 `Enable Rapid Import` 复选框。
 
 Step.3 回到 Lv2_Presets.md 页面，文本右端的 `复制快捷键` 依次导入全部的预设。
