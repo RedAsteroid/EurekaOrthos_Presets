@@ -2,8 +2,11 @@
 
 1. 建议使用 ``批量导入(Mass Import)`` 功能进行导入。
 
-2. 附md文本与仓库的地址，如果您是用过其他人分享的方式，可以通过以下链接溯源：
+2. 附md文本与仓库的地址，如果您是通过其他人分享的方式获得预设，可以通过以下链接溯源：
+  
+3. 闲鱼小店死个妈🐴先 ^^ 
 
+#
 仓库地址：
 
 ```
@@ -13,10 +16,10 @@ https://github.com/RedAsteroid/EurekaOrthos_Presets
 md文本地址：
 
 ```
-预留
+https://github.com/RedAsteroid/EurekaOrthos_Presets/blob/main/Lv2_Presets.md
 ```
 
-## 以下为绘制内容，推荐按顺序导入喵！
+## 以下为预设内容，推荐按顺序导入喵！
 
 精英怪 (施工中...)
 
