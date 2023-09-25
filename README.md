@@ -26,15 +26,15 @@
 
 如果你已通过闲鱼小店等渠道获取了本绘制的相关内容，按照一般思路我会提醒你退款并举报卖家。
 
-但就我个人而言，花了钱再找到我仓库这儿或是找我售后，你可他妈真的是傻逼中的傻逼。
+但就我个人而言，花了钱再找到我仓库这儿或是找我售后，你可他妈真的是 `傻逼` 中的 `傻逼`。
 
-请抵制倒卖行为，付出实际劳动的并不是倒狗，倒卖行为只会消磨创作者为爱发电的热情。
+**请抵制倒卖行为，付出实际劳动的并不是倒狗，倒卖行为只会消磨创作者为爱发电的热情。**
 
 ## 使用方法
 
 ### 触发器部分
 
-请在``Triggernometry``插件板块下选择``本地触发器``或者``远程触发器``，点击``导入``，点击``从文件或URI加载``输入下方的地址后导入。
+请在 `Triggernometry` 插件板块下选择 `本地触发器` 或者 `远程触发器`，点击 `导入`，点击 `从文件或URI加载` 输入下方的地址后导入。
 
 Github源站：
 ```
@@ -45,13 +45,16 @@ https://github.com/RedAsteroid/EurekaOrthos_Presets/releases/download/Main/Eurek
 https://kgithub.com/RedAsteroid/EurekaOrthos_Presets/releases/download/Main/EurekaOrthos_TRN.xml
 ```
 
+另外请在 `Splatoon` 插件设置中开启 `使用 WebAPI`，勾选 `Port(端口)` 为 `47774`
+##
+
 ### Splatoon Presets 部分
 
 ~~Step.1 请下载并打开Releases内的 `EurekaOrthos_Presets.txt` 文件，复制 Presets 部分。~~
 
 ~~Step.2 回到游戏，打开 `Splatoon` 窗口，点击 `布局` 选项卡后，点击 `Import from clipboard` 。~~
 
-~~如果你之前已经导入了历史版本想要更新，请先删除旧的分组： 右键标题，按住`Ctrl+Shift`，并点击第二项 `Remove group and it's layouts`。~~
+如果你之前已经导入了历史版本想要更新，请先删除旧的分组： 右键标题，按住 `Ctrl+Shift`，并点击第二项 `Remove group and it's layouts`。
 
 由于 `SplatoonX` 暂不支持Lv3导入，上方的导入方法作废，请看下方。
 
