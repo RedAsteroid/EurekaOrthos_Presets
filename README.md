@@ -61,7 +61,11 @@ https://kgithub.com/RedAsteroid/EurekaOrthos_Presets/releases/download/Main/Eure
 
 ## 如何导入？
 
-Step.0 **md 文件的底部提供了一次性导入的参数，可以省去逐条导入的繁杂操作。** 如果您是第一次接触导入，我建议从 `Step.1` 开始浏览与操作。
+**>>md 文件的底部提供了一次性导入的参数，可以省去逐条导入的繁杂操作，个人推荐直接一次性导入！<<**
+
+**如果您是第一次接触 Splatoon 插件导入预设，我建议从 `Step.1` 开始浏览与操作。**
+
+##
 
 Step.1 请在浏览器中打开仓库中的 Lv2_Presets.md 文件。
 
@@ -69,11 +73,9 @@ Step.1 请在浏览器中打开仓库中的 Lv2_Presets.md 文件。
 https://github.com/RedAsteroid/EurekaOrthos_Presets/blob/main/Lv2_Presets.md
 ```
 
-Step.2 请打开 `Splatoon` 插件窗口，点击 `批量导入` 选项卡后，勾选 `Enable Rapid Import` 复选框。
+Step.2 请打开 `Splatoon` 插件窗口，点击 `布局` 选项卡。
 
-Step.3 回到 Lv2_Presets.md 页面，文本右端的 `复制快捷键` 依次导入全部的预设。
+Step.3 回到 Lv2_Presets.md 页面，点击文本右端的 `复制快捷键` 浮现提示 `copied!` 后，再回到游戏点击布局选项卡内的 `Import from clipboard` 按钮，即可导入预设。
 
-Step.4 全部复制完毕后，回到 `Splatoon` 插件窗口，点击 `批量导入` 选项卡后，取消勾选 `Enable Rapid Import` 复选框。
-
-Step.5 完成！另外您可以单人进入正统优雷卡来测试绘制是否生效！
+Step.4 全部导入完成后，您可以单人进入正统优雷卡来测试绘制是否生效！
 
