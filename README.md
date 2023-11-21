@@ -1,6 +1,6 @@
 # EurekaOrthos_Presets
 
-分享个人制作的 深层迷宫-正统优雷卡预设(EurekaOrthos Presets) ，协助你观察正统优雷卡怪物的技能范围。
+分享个人制作的 深层迷宫-正统优雷卡预设(EurekaOrthos Presets) ，协助您观察正统优雷卡怪物的技能范围。
 
 # 请注意：
 
@@ -8,13 +8,15 @@
 
 2. 因为各种原因，仓库在未来很长一段时间不会有实质更新。
 
-3. 未对国际服进行适配，但是预设部分 Splatoon Presets 在国际服应该仍然能运作。
+3. 没有对国际服进行任何适配，但是 Splatoon 预设部分(Lv2_Presets.md)，在国际服应该仍然能运作。
 
 4. **绘制未完成，使用时可能发生不可预料的错误，请谨慎使用。**
 
-此绘制基于 SplatoonX 进行制作，因此我推荐使用的 SplatoonX 而非官库版本，官库的 Splatoon 应该也能运作，我没试过。
+此绘制基于 SplatoonX 进行制作，因此我推荐使用的 SplatoonX，官方版本 Splatoon 应该也能工作，我没试过。
 
-请移步此处获取 SplatoonX → [gamous的Dalamud第三方插件仓库](https://github.com/gamous/DalamudPluginsCN-Dev/)
+现在国际服API9，国服无法安装官方版本。 - CN 6.4
+
+请移步此处获取 SplatoonX → [gamous的Dalamud第三方插件仓库](https://github.com/gamous/DalamudPluginsCN-Dev/) ←
 
 ## 本仓库禁止任何形式的倒卖！ ##
 
@@ -61,9 +63,9 @@ https://kgithub.com/RedAsteroid/EurekaOrthos_Presets/releases/download/Main/Eure
 
 ## 如何导入？
 
-**>>md 文件的底部提供了一次性导入的参数，可以省去逐条导入的繁杂操作，个人推荐直接一次性导入！<<**
+- **>>md 文件的底部提供了一次性导入的参数，可以省去逐条导入的繁杂操作，个人推荐直接一次性导入！<<**
 
-**如果您是第一次接触 Splatoon 插件导入预设，我建议从 `Step.1` 开始浏览与操作。**
+- **如果您是第一次接触 Splatoon 插件导入预设，我建议从 `Step.1` 开始浏览与操作。**
 
 ##
 
