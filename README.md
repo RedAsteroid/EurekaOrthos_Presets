@@ -81,6 +81,6 @@ Step.4 全部导入完成后，您可以单人进入正统优雷卡来测试绘�
 
 ### 参考资料
 
-- [深宫优雷卡笔记](docs.qq.com/doc/DSHNyVndhZkVqdHRo)
+- [深宫优雷卡笔记](https://docs.qq.com/doc/DSHNyVndhZkVqdHRo)
 
 - [Splatoon 官方仓库预设](https://github.com/PunishXIV/Splatoon/blob/main/Presets/Endwalker%20content/Duties/Deep%20Dungeon%20-%20Eureka%20Orthos.md)
